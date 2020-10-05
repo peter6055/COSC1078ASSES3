@@ -14,6 +14,8 @@ Templete:
 
 "Avana Free Website Template | Free CSS Templates | Free CSS", Free-css.com, 2020. [Online]. Available: https://www.free-css.com/free-css-templates/page225/avana. [Accessed: 17- Sep- 2020].
 
+Tartea, L 2020, Leno Free Website Template | Free CSS Templates | Free CSS, www.free-css.com, viewed 5 October 2020, <https://www.free-css.com/free-css-templates/page252/leno>.
+
 
 
 Images:
